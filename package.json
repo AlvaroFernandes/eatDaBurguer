@@ -1,25 +1,26 @@
 {
-  "name": "eatdaburguer",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlvaroFernandes/eatDaBurguer.git"
-  },
-  "author": "Alvaro Fernandes",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlvaroFernandes/eatDaBurguer/issues"
-  },
-  "homepage": "https://github.com/AlvaroFernandes/eatDaBurguer#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "express-handlebars": "^5.1.0",
-    "handlebars": "^4.7.6",
-    "mysql": "^2.18.1"
-  }
+    "name": "eatdaburguer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlvaroFernandes/eatDaBurguer.git"
+    },
+    "author": "Alvaro Fernandes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlvaroFernandes/eatDaBurguer/issues"
+    },
+    "homepage": "https://github.com/AlvaroFernandes/eatDaBurguer#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^5.1.0",
+        "handlebars": "^4.7.6",
+        "mysql": "^2.18.1"
+    }
 }
